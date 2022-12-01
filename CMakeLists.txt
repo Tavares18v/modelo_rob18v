@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(my_bot)
+project(modelo_rob18v)
 
 # Default to C99
 if(NOT CMAKE_C_STANDARD)
